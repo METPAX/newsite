@@ -5,7 +5,7 @@
 define('SUPABASE_URL', 'https://xssjhmkwfigswqtjibel.supabase.co'); // Твой URL проекта
 define('SUPABASE_KEY', 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inhzc2pobWt3Zmlnc3dxdGppYmVsIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzk5MTE0ODMsImV4cCI6MjA5NTQ4NzQ4M30.h2clZbhEHITlEkmCS2X43PrB-wAfkEnrA2kloC_IDkQ'); // <-- Скопируй ключ anon из Project Settings -> API
 define('DB_HOST', 'aws-1-ap-south-1.pooler.supabase.com'); 
-define('DB_PORT', '5432'); 
+define('DB_PORT', '6543'); 
 define('DB_NAME', 'postgres');
 define('DB_USER', 'postgres.xssjhmkwfigswqtjibel'); 
 define('DB_PASS', 'Astera7540@'); // <-- Вставь сюда свой пароль
